@@ -1,15 +1,23 @@
-## Estrutura do projeto
 
-SortingAlgorithm/
-│
-├── src/
-│   ├── SortingTest.java
-│   ├── SortingMetrics.java
-│   ├── MetricsCounter.java
-│   ├── BubbleSort.java
-│   ├── BinaryInsertionSort.java
-│   └── BucketSort.java
-└── tests/
-    ├── 1000_numbers.txt
-    ├── 5000_numbers.txt
-    └── 10000_numbers.txt
+
+## Pré-requisitos
+
+- Java Development Kit (JDK) instalado
+- JavaFX SDK configurado no seu sistema
+
+
+## Compilação e execução
+
+1. Navegue até a pasta `/src` do projeto.
+
+2. Execute o seguinte comando para compilar o código:
+
+```
+    javac -Xlint:unchecked --module-path "<CAMINHO_DO_JAVAFX>\lib" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base,javafx.media,javafx.web sorting_algorithm/*.java
+```
+
+3.execute com o comando 
+
+```
+    java --module-path "<CAMINHO_DO_JAVAFX>\lib" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base,javafx.media,javafx.web sorting_algorithm.SortingApp
+```
