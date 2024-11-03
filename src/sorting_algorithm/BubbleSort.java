@@ -1,4 +1,4 @@
-
+package sorting_algorithm;
 
 public class BubbleSort {
     public static SortingMetrics sort(int[] arr) {

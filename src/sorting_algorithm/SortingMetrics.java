@@ -1,3 +1,5 @@
+package sorting_algorithm;
+
 public class SortingMetrics {
     private long runtime;
     private int comparisons;

@@ -1,3 +1,5 @@
+package sorting_algorithm;
+
 public class Counter {
     private int comparisons = 0;
     private int movements = 0;

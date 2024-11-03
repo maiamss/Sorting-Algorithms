@@ -1,3 +1,5 @@
+package sorting_algorithm;
+
 public class BinaryInsertionSort {
     public static SortingMetrics sort(int[] arr) {
         Counter counter = new Counter();
