@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SortingApp",
+            "request": "launch",
+            "mainClass": "sorting_algorithm.SortingApp",
+            "vmArgs": "--module-path ../lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base,javafx.media,javafx.web"
+        }
+    ]
+}
