@@ -4,7 +4,7 @@ O projeto realiza testes de desempenho, medindo tempo de execução, comparaçõ
 ## Pré-requisitos
 
 - Java Development Kit (JDK) instalado
-- JavaFX SDK configurado no seu sistema
+- JavaFX SDK configurado no seu sistema -> [JavaFX](https://gluonhq.com/products/javafx/)
 
 
 ## Compilação e execução
