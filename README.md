@@ -1,4 +1,5 @@
-
+Implementações dos algoritmos de ordenação: Bubble Sort, Binary Insertion Sort e Bucket Sort. 
+O projeto realiza testes de desempenho, medindo tempo de execução, comparações e movimentações, permitindo a análise e comparação da eficiência de cada algoritmo em diferentes conjuntos de dados.
 
 ## Pré-requisitos
 
